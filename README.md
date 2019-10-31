@@ -1,2 +1,2 @@
 # ideas
- List of ideas and stuff to do when i'm bored
+List of ideas and stuff to work on when I'm bored. Feel free to contribute as you see fit; if you want to work on one of these ideas leave a comment on the corresponding issue or contact me otherwise. You can access the most recent 100 at https://api.github.com/repos/generic-github-user/ideas/issues?per_page=100
